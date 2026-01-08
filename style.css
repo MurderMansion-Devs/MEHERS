@@ -1,7 +1,6 @@
 #whatido
 {
-    background-color: whitesmoke;
-    padding: 10%;
-    align-items: top;
-    align-content: center;
+  list-style: none;
+  padding: 0;
+  text-align: center; /* centers inline/inline-block children */
 }
