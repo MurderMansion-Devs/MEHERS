@@ -1,6 +1,6 @@
 #whatido
 {
-  list-style: none;
-  padding: 0;
-  text-align: center; /* centers inline/inline-block children */
+align-self: center;
+align-items: center;
+align-content: center;
 }
